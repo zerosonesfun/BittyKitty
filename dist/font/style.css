@@ -1,0 +1,147 @@
+@font-face {
+  font-family: 'BittyKittyFont';
+  src:  url('fonts/BittyKittyFont.eot?ulgw4r');
+  src:  url('fonts/BittyKittyFont.eot?ulgw4r#iefix') format('embedded-opentype'),
+    url('fonts/BittyKittyFont.ttf?ulgw4r') format('truetype'),
+    url('fonts/BittyKittyFont.woff?ulgw4r') format('woff'),
+    url('fonts/BittyKittyFont.svg?ulgw4r#BittyKittyFont') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'BittyKittyFont' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Angry .path1:before {
+  content: "\e900";
+  color: rgb(129, 0, 127);
+}
+.icon-Angry .path2:before {
+  content: "\e901";
+  margin-left: -1em;
+  color: rgb(203, 100, 252);
+}
+.icon-Cool .path1:before {
+  content: "\e902";
+  color: rgb(0, 0, 0);
+}
+.icon-Cool .path2:before {
+  content: "\e903";
+  margin-left: -1em;
+  color: rgb(129, 1, 127);
+}
+.icon-Cool .path3:before {
+  content: "\e904";
+  margin-left: -1em;
+  color: rgb(129, 1, 127);
+}
+.icon-Cool .path4:before {
+  content: "\e905";
+  margin-left: -1em;
+  color: rgb(205, 102, 255);
+}
+.icon-Cool .path5:before {
+  content: "\e906";
+  margin-left: -1em;
+  color: rgb(205, 102, 255);
+}
+.icon-Laugh .path1:before {
+  content: "\e907";
+  color: rgb(128, 0, 128);
+}
+.icon-Laugh .path2:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: rgb(204, 102, 255);
+}
+.icon-Sad .path1:before {
+  content: "\e909";
+  color: rgb(129, 0, 127);
+}
+.icon-Sad .path2:before {
+  content: "\e90a";
+  margin-left: -1em;
+  color: rgb(158, 41, 178);
+}
+.icon-Sad .path3:before {
+  content: "\e90b";
+  margin-left: -1em;
+  color: rgb(9, 125, 253);
+}
+.icon-Sad .path4:before {
+  content: "\e90c";
+  margin-left: -1em;
+  color: rgb(205, 102, 255);
+}
+.icon-Speechless .path1:before {
+  content: "\e90d";
+  color: rgb(129, 0, 127);
+}
+.icon-Speechless .path2:before {
+  content: "\e90e";
+  margin-left: -1em;
+  color: rgb(204, 100, 253);
+}
+.icon-Wow .path1:before {
+  content: "\e90f";
+  color: rgb(129, 0, 127);
+}
+.icon-Wow .path2:before {
+  content: "\e910";
+  margin-left: -1em;
+  color: rgb(203, 100, 252);
+}
+.icon-Wink .path1:before {
+  content: "\e911";
+  color: rgb(129, 0, 127);
+}
+.icon-Wink .path2:before {
+  content: "\e912";
+  margin-left: -1em;
+  color: rgb(203, 100, 252);
+}
+.icon-Tongue .path1:before {
+  content: "\e913";
+  color: rgb(129, 0, 127);
+}
+.icon-Tongue .path2:before {
+  content: "\e914";
+  margin-left: -1em;
+  color: rgb(203, 100, 252);
+}
+.icon-Kiss .path1:before {
+  content: "\e915";
+  color: rgb(168, 0, 88);
+}
+.icon-Kiss .path2:before {
+  content: "\e916";
+  margin-left: -1em;
+  color: rgb(161, 41, 176);
+}
+.icon-Kiss .path3:before {
+  content: "\e917";
+  margin-left: -1em;
+  color: rgb(205, 102, 255);
+}
+.icon-Happy .path1:before {
+  content: "\e918";
+  color: rgb(129, 0, 127);
+}
+.icon-Happy .path2:before {
+  content: "\e919";
+  margin-left: -1em;
+  color: rgb(203, 100, 252);
+}
