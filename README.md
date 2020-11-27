@@ -1,7 +1,7 @@
 # BittyKitty
 An original retro kitty emoji set built for Flarum but could be used anywhere. 
 
-![](https://github.com/zerosonesfun/BittyKitty/blob/main/dist/AA9BF7FE-23E3-4A3D-97F8-60E1C255FF65.png?raw=true)
+![](https://github.com/zerosonesfun/BittyKitty/blob/main/dist/41A3872E-CC83-4FB6-9632-66B53CF07996.png?raw=true)
 
 ![](https://i.creativecommons.org/l/by/4.0/80x15.png)
 
