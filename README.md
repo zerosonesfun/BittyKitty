@@ -1,5 +1,5 @@
 # BittyKitty
-An original retro kitty emoji set.
+An original retro kitty cat emoji set.
 
 ![](https://github.com/zerosonesfun/BittyKitty/blob/main/dist/41A3872E-CC83-4FB6-9632-66B53CF07996.png?raw=true)
 
